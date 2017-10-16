@@ -1,5 +1,4 @@
-# Pieces
-https://gvoy.tech/pieces/
+# [Pieces](https://gvoy.tech/pieces/)
 
 An interactive picture exhibition with a picture editor.
 
@@ -7,24 +6,21 @@ This is my own project combining my passion for programming and creative work. I
 
 Done with an excelent opensource p5.js library (https://p5js.org/) with convenient graphics functions. 
 
-# Use Instructions
-C - swap between creator/showcase screen (unsaved drwaing is not lost)
 
-Creator:
+## Use Instructions
+   C - swap between creator/showcase screen (unsaved drwaing is not lost)
 
-S - save drwaing (for current session until refresh; storage to be added)
+###Creator:
+   S - save drwaing (for current session until refresh; storage to be added)
+   F [hold] - in creator, hold F and move cursor close to a triangle vertex to place the cursor exactly on the vertex
+   left-mouse - place a vertex
 
-F [hold] - in creator, hold F and move cursor close to a triangle vertex to place the cursor exactly on the vertex
+###Showcase: 
+   left/right or up/down arrow - previous/next drawing
+   left-mouse - next drawing
 
-left-mouse - place a vertex
 
-Showcase: 
-
-left/right or up/down arrow - previous/next drawing
-
-left-mouse - next drawing
-
-# ToDo (for now)
+## ToDo (for now)
  - adding color palette for editor
  - add drawings dataase (with Google Firebase)
  - refactoring
