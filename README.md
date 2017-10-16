@@ -25,7 +25,7 @@ left-mouse - next drawing
 
 ## ToDo (for now)
  - adding color palette for editor
- - add drawings dataase (with Google Firebase)
+ - add drawings dataase (with [Google Firebase](https://firebase.google.com/))
  - refactoring
  - documentation
  - using CSS polygons for drawings
