@@ -150,7 +150,7 @@ function Showcase() {
 }
 
 var shapes=[],go,gofrom,goto,no=0;
-var creatorToggled = true;
+var creatorToggled = false;
 
 function draw ()
 {
