@@ -8,12 +8,12 @@ Done with an excelent open source [p5.js library](https://p5js.org/).
 
 
 ## Use Instructions
-**C** - swap between creator/showcase screen (unsaved drwaing is not lost)
+**C** - swap between creator/showcase screen (unsaved drawing is not lost)
 
 ### Creator:
 **S** - save drwaing (for current session until refresh; storage to be added)
 
-**F** - [hold] in creator, hold F and move cursor close to a triangle vertex to place the cursor exactly on the vertex
+**F** - hold F and move cursor close to a triangle vertex to place the cursor exactly on the vertex
 
 **Mouse left** -	place a vertex
 
