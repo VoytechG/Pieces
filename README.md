@@ -15,12 +15,12 @@ S - save drwaing (for current session until refresh; storage to be added)
 
 F [hold] -	in creator, hold F and move cursor close to a triangle vertex to place the cursor exactly on the vertex
 
-MouseL 		place a vertex
+Mouse left -	place a vertex
 
 ### Showcase: 
 left/right or up/down arrow - previous/next drawing
 
-MouseL - next drawing
+Mouse left - next drawing
 
 
 ## ToDo (for now)
