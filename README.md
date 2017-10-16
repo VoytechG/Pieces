@@ -12,16 +12,21 @@ C - swap between creator/showcase screen (unsaved drwaing is not lost)
 
 Creator:
 S - save drwaing (for current session until refresh; storage to be added)
+
 F [hold] - in creator, hold F and move cursor close to a triangle vertex to place the cursor exactly on the vertex
+
 left-mouse - place a vertex
 
 Showcase: 
+
 left/right or up/down arrow - previous/next drawing
+
 left-mouse - next drawing
 
 # ToDo (for now)
  - adding color palette for editor
  - add drawings dataase (with Google Firebase)
+
 
  - refactoring
  - documentation
