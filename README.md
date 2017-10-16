@@ -1,6 +1,5 @@
 # Pieces
-
-# Latest version: https://gvoy.tech/pieces/
+https://gvoy.tech/pieces/
 
 An interactive picture exhibition with a picture editor.
 
